@@ -3,7 +3,7 @@
 # Hi there, I'm [Dinmukhamed Nurkaliyev](https://github.com/dinmukhamednurkaliyev/)! 👋
 
 ### ✍️ About me:
-A Flutter Developer focused on building high-quality, scalable, and performant cross-platform applications. Committed to engineering excellence and best practices to deliver robust solutions for cross-platform apps.
+A **Flutter Developer** focused on building high-quality, scalable, and performant cross-platform applications. Committed to engineering excellence and best practices to deliver robust solutions for cross-platform apps.
 
 ### 🌐 Connect with me:
 [![Linkedin](./icons/linkedin.svg)](https://www.linkedin.com/in/dinmukhamed-nurkaliyev-80b5a1326/)
