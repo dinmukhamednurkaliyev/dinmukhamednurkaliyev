@@ -1,6 +1,8 @@
 ### ✍️ About me:
 A **Flutter Developer** focused on building high-quality, scalable, and performant cross-platform applications. Committed to engineering excellence and best practices to deliver robust solutions for cross-platform apps.
 
+---
+
 ### 🌐 Connect with me:
 
 | Platform        | Link                                                                                    |
