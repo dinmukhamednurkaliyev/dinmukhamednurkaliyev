@@ -23,7 +23,8 @@ A **Flutter Developer** focused on building high-quality, scalable, and performa
 | :------------ | :-------------------------------------------------- |
 | **Flutter**   | [flutter.dev](https://flutter.dev/)                 |
 | **Dart**      | [dart.dev](https://dart.dev/)                       |
-| **BLoC**      | [bloclibrary.dev](https://bloclibrary.dev/)         |
+| **Bloc**      | [bloclibrary.dev](https://bloclibrary.dev/)         |
+| **Dio**      | [pub.dev](https://pub.dev/packages/dio)         |
 | **Supabase**  | [supabase.com](https://supabase.com/)               |
 | **Firebase**  | [firebase.google.com](https://firebase.google.com/) |
 | **Powersync** | [powersync.com](https://www.powersync.com/)         |
