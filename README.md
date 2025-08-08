@@ -17,7 +17,7 @@ A **Flutter Developer** focused on building high-quality, scalable, and performa
 
 ---
 
-### 🚀 Technologies:
+### 🛠️ Technologies:
 
 | Technology    | Link                                                |
 | :------------ | :-------------------------------------------------- |
