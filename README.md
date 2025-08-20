@@ -56,7 +56,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
  <div style="text-align: center; width: 200px;">
     <a href="https://github.com/dinmukhamednurkaliyev/furniture-store-application">
-      <img src="https://github.com/dinmukhamednurkaliyev/furniture-store-application/raw/main/documentation/images/banner.png" width="200"/>
+      <img src="https://github.com/dinmukhamednurkaliyev/furniture-store-application/raw/main/documentation/images/brand_banner.svg" width="200"/>
     </a>
   </div>
 </div>
