@@ -47,3 +47,18 @@
     <a href="https://discord.com/users/1300002143377428531" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" alt="Discord" width="20" style="margin-right: 8px;"/></a>
     <strong>Discord</strong>:&#160;<a href="https://discord.com/users/1300002143377428531">dinmukhamed.nurkaliyev</a>
 </div>
+
+<h3 style="display: flex; align-items: center;">
+    <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/light-bulb_1f4a1.gif" width="25" style="margin-right: 8px;"/>
+    Projects:
+</h3>
+
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dinmukhamednurkaliyev/furniture-store-application">
+        <img src="https://github.com/dinmukhamednurkaliyev/furniture-store-application/raw/main/documentation/images/banner.png" width="200" />
+      </a>
+      <br />
+      <sub><b>Furniture Store</b></sub>
+</table>
