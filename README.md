@@ -16,7 +16,7 @@
 
 <h3 style="display: flex; align-items: center;">
     <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/bell_1f514.gif" width="25" style="margin-right: 8px;"/>
-    Contact
+    Contacts
 </h3>
 
 <div style="display: flex; align-items: center; margin-bottom: 8px;">
