@@ -5,8 +5,10 @@
 
 
 ### <img align="center" src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/writing-hand_270d-fe0f.gif" width="25"/>  About me:
-A **Flutter Developer** focused on building high-quality, scalable, and performant cross-platform applications. Committed to engineering excellence and best practices to deliver robust solutions for cross-platform applications. 
-<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="50"/>
+A <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="15"/> **Flutter Developer** </a> focused on building high-quality, scalable, and performant cross-platform applications. Committed to engineering excellence and best practices to deliver robust solutions for cross-platform applications. <img align="center" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="50"/>
+
+
+
 
 ### <img align="center" src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/bell_1f514.gif" width="25"/> Contact:
 
