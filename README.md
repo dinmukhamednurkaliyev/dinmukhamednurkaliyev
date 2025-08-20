@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif">
+<img src="https://indoanalytica.com/static/images/bannerr.gif" />
 </div>
+
 
 
 ### <img align="center" src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/writing-hand_270d-fe0f.gif" width="25"/>  About me:
@@ -16,3 +17,6 @@ A **Flutter Developer** focused on building high-quality, scalable, and performa
 - <a href="https://t.me/dinmukhamed_nurkaliyev" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-1024.png" alt="Telegram" width="20"/></a> **Telegram**: [dinmukhamed_nurkaliyev](https://t.me/dinmukhamed_nurkaliyev)
 - <a href="https://discord.com/users/1300002143377428531" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" alt="Discord" width="20"/></a> **Discord**: [dinmukhamed.nurkaliyev](https://discord.com/users/1300002143377428531)
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif"/>
+</div>
