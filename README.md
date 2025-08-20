@@ -3,7 +3,7 @@ A **Flutter Developer** focused on building high-quality, scalable, and performa
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Contact:
 
 | Platform        | Link                                                                                    |
 | :-------------- | :-------------------------------------------------------------------------------------- |
@@ -16,15 +16,3 @@ A **Flutter Developer** focused on building high-quality, scalable, and performa
 | **Discord**     | [dinmukhamed.nurkaliyev](https://discord.com/users/1300002143377428531)                 |
 
 ---
-
-### 🛠️ Technologies:
-
-| Technology    | Link                                                |
-| :------------ | :-------------------------------------------------- |
-| **Flutter**   | [flutter.dev](https://flutter.dev/)                 |
-| **Dart**      | [dart.dev](https://dart.dev/)                       |
-| **Bloc**      | [bloclibrary.dev](https://bloclibrary.dev/)         |
-| **Dio**      | [pub.dev](https://pub.dev/packages/dio)         |
-| **Supabase**  | [supabase.com](https://supabase.com/)               |
-| **Firebase**  | [firebase.google.com](https://firebase.google.com/) |
-| **Powersync** | [powersync.com](https://www.powersync.com/)         |
