@@ -6,8 +6,6 @@
 ### ✍️ About me:
 A **Flutter Developer** focused on building high-quality, scalable, and performant cross-platform applications. Committed to engineering excellence and best practices to deliver robust solutions for cross-platform apps.
 
----
-
 ### 🌐 Contact:
 
 | Platform        | Link                                                                                    |
@@ -20,4 +18,3 @@ A **Flutter Developer** focused on building high-quality, scalable, and performa
 | **Telegram**    | [dinmukhamed_nurkaliyev](https://t.me/dinmukhamed_nurkaliyev)                           |
 | **Discord**     | [dinmukhamed.nurkaliyev](https://discord.com/users/1300002143377428531)                 |
 
----
