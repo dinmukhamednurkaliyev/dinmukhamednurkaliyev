@@ -6,7 +6,7 @@
 
 <h3 style="display: flex; align-items: center;">
     <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/writing-hand_270d-fe0f.gif" width="25" style="margin-right: 8px;"/>
-    About me:
+    About me
 </h3>
 
 <p> A <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="15" style="vertical-align: middle;"/> <strong>Flutter Developer</strong> focused on building high-quality, scalable, and performant cross-platform applications. Committed to engineering excellence and best practices to deliver robust solutions for cross-platform applications. <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="50" style="vertical-align: middle;"/>
@@ -16,7 +16,7 @@
 
 <h3 style="display: flex; align-items: center;">
     <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/bell_1f514.gif" width="25" style="margin-right: 8px;"/>
-    Contact:
+    Contact
 </h3>
 
 <div style="display: flex; align-items: center; margin-bottom: 8px;">
@@ -50,7 +50,7 @@
 
 <h3 style="display: flex; align-items: center;">
     <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/light-bulb_1f4a1.gif" width="25" style="margin-right: 8px;"/>
-    Projects:
+    Projects
 </h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
