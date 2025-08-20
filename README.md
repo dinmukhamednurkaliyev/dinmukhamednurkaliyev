@@ -3,10 +3,10 @@
 </div>
 
 
-### ✍️ About me:
+### <img align="center" src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/writing-hand_270d-fe0f.gif" width="25"/>  About me:
 A **Flutter Developer** focused on building high-quality, scalable, and performant cross-platform applications. Committed to engineering excellence and best practices to deliver robust solutions for cross-platform apps.
 
-### 🌐 Contact:
+### <img align="center" src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/bell_1f514.gif" width="25"/> Contact:
 
 - <a href="https://www.linkedin.com/in/dinmukhamed-nurkaliyev-80b5a1326/" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" alt="LinkedIn" width="20"/></a> **LinkedIn**: [dinmukhamed-nurkaliyev](https://www.linkedin.com/in/dinmukhamed-nurkaliyev-80b5a1326/)
 - <a href="https://www.instagram.com/dinmukhamed.nurkaliyev/" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="Instagram" width="20"/></a> **Instagram**: [dinmukhamed.nurkaliyev](https://www.instagram.com/dinmukhamed.nurkaliyev/)
