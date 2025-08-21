@@ -19,6 +19,10 @@
     Contacts
 </h3>
 
+<div style="display: flex; align-items: center;">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your.dinmukhamed.nurkaliyev@gmail.com" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-email-material-design-512.png" alt="Email" width="20" style="margin-right: 8px;"/></a>
+    <strong>Email</strong>:&#160;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=your.dinmukhamed.nurkaliyev@gmail.com">dinmukhamed.nurkaliyev@gmail.com</a>
+</div>
 <div style="display: flex; align-items: center; margin-bottom: 8px;">
     <a href="https://www.linkedin.com/in/dinmukhamed-nurkaliyev-80b5a1326/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" alt="LinkedIn" width="20" style="margin-right: 8px;"/></a>
     <strong>LinkedIn</strong>:&#160;<a href="https://www.linkedin.com/in/dinmukhamed-nurkaliyev-80b5a1326/">dinmukhamed-nurkaliyev</a>
@@ -47,16 +51,4 @@
     <a href="https://discord.com/users/1300002143377428531" target="_blank"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" alt="Discord" width="20" style="margin-right: 8px;"/></a>
     <strong>Discord</strong>:&#160;<a href="https://discord.com/users/1300002143377428531">dinmukhamed.nurkaliyev</a>
 </div>
-
-<h3 style="display: flex; align-items: center;">
-    <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/light-bulb_1f4a1.gif" width="25" style="margin-right: 8px;"/>
-    Projects
-</h3>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
- <div style="text-align: center; width: 200px;">
-    <a href="https://github.com/dinmukhamednurkaliyev/furniture-store-application">
-      <img src="https://github.com/dinmukhamednurkaliyev/furniture-store-application/raw/main/documentation/images/brand_banner.svg" width="200"/>
-    </a>
-  </div>
 </div>
