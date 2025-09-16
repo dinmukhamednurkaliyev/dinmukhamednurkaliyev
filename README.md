@@ -9,7 +9,7 @@
     About me
 </h2>
 
-<p> A <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="15" style="vertical-align: middle;"/> <strong>Flutter Developer</strong> focused on building high-quality, scalable, and performant cross-platform applications. Committed to engineering excellence and best practices to deliver robust solutions for cross-platform applications. <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="50" style="vertical-align: middle;"/>
+<p> A <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="15" style="vertical-align: middle;"/> <strong>Flutter Developer</strong> who enjoys building apps that work on different platforms. I'm focused on learning how to create solid applications and follow good coding practices. ." <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="50" style="vertical-align: middle;"/>
 </p>
 
 <br>
