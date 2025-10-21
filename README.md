@@ -9,7 +9,10 @@
     About me
 </h2>
 
-<p> A <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="15" style="vertical-align: middle;"/> <strong>Flutter Developer</strong> who enjoys building apps that work on different platforms. I'm focused on learning how to create solid applications and follow good coding practices.<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="50" style="vertical-align: middle;"/>
+<p>
+    <strong> Hi, I'm Dinmukhamed Nurkaliyev </strong> <img src="https://media.tenor.com/YecaBNpMST8AAAAi/bugcat-capoo.gif" width="30"/>
+    <br>
+    I specialize in building cross-platform mobile applications from the ground up. My focus is on writing code that is not just functional, but also clean, scalable, and testable.
 </p>
 
 <br>
