@@ -13,8 +13,6 @@
   <strong> As a  Flutter Developer </strong>, I specialize in engineering applications from the ground up by implementing Clean Architecture and SOLID principles. This results in a codebase that is highly testable, scalable, and easy for teams to maintain.
 </p>
 
-<br>
-
 <h2 style="display: flex; align-items: center;">
     <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/427/bell_1f514.gif" width="25" style="margin-right: 8px;"/>
     Contacts
