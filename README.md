@@ -10,9 +10,7 @@
 </h2>
 
 <p>
-    <strong> Hi, I'm Dinmukhamed Nurkaliyev </strong> <img src="https://media.tenor.com/YecaBNpMST8AAAAi/bugcat-capoo.gif" width="30"/>
-    <br>
-    I specialize in building cross-platform mobile applications from the ground up. My focus is on writing code that is not just functional, but also clean, scalable, and testable.
+    I specialize in building cross-platform mobile applications from the ground up. My focus is on writing code that is not just functional, but also clean, scalable, and testable.  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNsZ2lhbzBqOWJmaHNmYnlwd3R5a2FyazgwM3BvZWpobG9wNHRxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i7vpymS7uRIIvPUUlq/giphy.gif" width="30"/>
 </p>
 
 <br>
