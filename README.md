@@ -10,11 +10,8 @@
 </h2>
 
 <p>
-    I specialize in building cross-platform mobile applications from the ground up. My focus is on writing code that is not just functional, but also clean, scalable, and testable.  
+  <strong> As a  Flutter Developer </strong>, I specialize in engineering applications from the ground up by implementing Clean Architecture and SOLID principles. This results in a codebase that is highly testable, scalable, and easy for teams to maintain.
 </p>
-
-<br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNsZ2lhbzBqOWJmaHNmYnlwd3R5a2FyazgwM3BvZWpobG9wNHRxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i7vpymS7uRIIvPUUlq/giphy.gif" width="200"/>
 
 <br>
 
