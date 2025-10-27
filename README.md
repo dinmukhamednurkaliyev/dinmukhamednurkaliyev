@@ -10,7 +10,7 @@
 </h2>
 
 <p>
-  <strong> As a  Flutter Developer </strong>, I specialize in engineering applications from the ground up by implementing Clean Architecture and SOLID principles. This results in a codebase that is highly testable, scalable, and easy for teams to maintain.
+  Junior Flutter Developer with 1 year of professional Python automation and data pipeline experience. Proven ability to build scalable cross-platform applications. Ready to contribute robust coding and structured problem-solving skills immediately.     
 </p>
 
 <h2 style="display: flex; align-items: center;">
