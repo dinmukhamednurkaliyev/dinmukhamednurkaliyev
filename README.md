@@ -10,7 +10,7 @@
 </h2>
 
 <p>
-  Junior Flutter Developer with 1 year of professional Python automation and data pipeline experience."Building scalable cross-platform applications (Dart/Flutter, Riverpod, GoRouter). Ready to immediately apply robust coding and structured problem-solving skills.   
+  Junior Flutter Developer with 1 year of professional Python automation and data pipeline experience. Building scalable cross-platform applications (Dart/Flutter, Riverpod, GoRouter). Ready to immediately apply robust coding and structured problem-solving skills.   
 </p>
 
 <h2 style="display: flex; align-items: center;">
