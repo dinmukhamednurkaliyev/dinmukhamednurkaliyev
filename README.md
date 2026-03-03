@@ -1,7 +1,7 @@
 # Dinmukhamed Nurkaliyev
-**Software Engineer | Specialized in Dart & Flutter**
+**Software Engineer | Dart & Flutter**
 
-Technical-minded engineer focused on cross-platform development. Focused on building scalable front-end architectures, seamless user experiences, and robust mobile solutions using the Flutter framework.
+Technical-minded engineer with a deep interest in cross-platform development. Proficient in Dart and Flutter framework, with a focus on building scalable front-end architectures and seamless user experiences. Strong grasp of OOP principles and modern development workflows.
 
 ---
 
