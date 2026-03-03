@@ -13,7 +13,7 @@ Technical-minded engineer focused on cross-platform development. Focused on buil
 | **State Management** | `bloc`, `riverpod` |
 | **Navigation** | `go_router` |
 | **Testing** | `flutter_test`, `mocktail` |
-| **Architecture** | `clean architecture` |
+| **Architecture** | `clean architecture`, `layered architecture` |
 
 ### Connection
 | Platform | Link |
