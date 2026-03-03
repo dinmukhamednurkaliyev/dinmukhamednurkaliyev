@@ -29,3 +29,7 @@ Technical-minded engineer focused on cross-platform development. Focused on buil
 | **TikTok** | [@dinmukhamed.nurkaliyev](https://www.tiktok.com/@dinmukhamed.nurkaliyev) |
 
 ---
+
+### GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinmukhamednurkaliyev&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinmukhamednurkaliyev&layout=compact&theme=transparent&hide_border=true)
