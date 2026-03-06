@@ -13,7 +13,7 @@ Technical-minded engineer with a deep interest in cross-platform development. Pr
 | **State Management** | `bloc`, `riverpod` |
 | **Navigation** | `go_router` |
 | **Testing** | `flutter_test`, `mocktail` |
-| **Architecture** | `clean architecture`, |
+| **Architecture** | `clean architecture` |
 
 ### Connection
 | Platform | Link |
