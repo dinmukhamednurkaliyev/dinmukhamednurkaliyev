@@ -1,2 +1,2 @@
 # Dinmukhamed Nurkaliyev
-**Software Engineer**
+**Frontend Software Engineer**
