@@ -1,6 +1,12 @@
-# Dinmukhamed Nurkaliyev
-
-**Frontend Software Engineer**
+<p align="center">
+  <picture>
+    <img
+      src="documentation/images/logo.png"
+      alt="dinmukhamednurkaliyev-logo"
+      width="420"
+    >
+  </picture>
+</p>
 
 ## About
 
